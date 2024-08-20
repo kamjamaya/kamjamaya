@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab] (insert lab link here)
+- [Azure: Create Resource Groups,Storage Accounts, and Containers] (https://github.com/kamjamaya/azurecrashcourse)
 - [Hello World!] (insert lab link here)
   
 <h2> Certifications: </h2>
