@@ -1,9 +1,7 @@
 <h1>Hi, I'm Kamryn! an <a href="https://www.linkedin.com/in/kamryn-mckinley-0a9044142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bcf8kjflQRcSBOmscN32wFg%3D%3D"> IT Professional </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- [Azure: Create Resource Groups,Storage Accounts, and Containers] (https://github.com/kamjamaya/azurecrashcourse)
-- [Hello World!] (insert lab link here)
+<a href=https://github.com/kamjamaya/azurecrashcourse"> Azure: Create Resource Groups, Storage Accounts, and Containers
   
 <h2> Certifications: </h2>
 - [Google Cybersecurity Professional] (insert link here)
