@@ -8,4 +8,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Crash Course](https://github.com/kamjamaya/azurecrashcourse)
-  - [Virtual Machines](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Virtual Machines](https://github.com/kamjamaya/azure-wireshark/blob/main/README.md)
