@@ -6,4 +6,4 @@
   - [Crash Course](https://github.com/kamjamaya/azurecrashcourse)
   - [Virtual Machines](https://github.com/kamjamaya/azure-wireshark/blob/main/README.md)
 
-- - <b>osTicket (Help Desk Ticketing System) </b>
+<b>osTicket (Help Desk Ticketing System) </b>
