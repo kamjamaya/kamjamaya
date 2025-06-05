@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+<b>Microsoft Azure</b>
   - [Crash Course](https://github.com/kamjamaya/azurecrashcourse)
   - [Virtual Machines](https://github.com/kamjamaya/azure-wireshark/blob/main/README.md)
 
