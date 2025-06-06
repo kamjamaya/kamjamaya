@@ -7,3 +7,4 @@
   - [Virtual Machines](https://github.com/kamjamaya/azure-wireshark/blob/main/README.md)
 
 <b>osTicket (Help Desk Ticketing System) </b>
+- [osTicket Installation](https://github.com/kamjamaya/azurecrashcourse)
